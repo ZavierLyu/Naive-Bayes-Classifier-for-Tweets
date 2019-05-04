@@ -12,6 +12,8 @@ pipenv --three
 pipenv install pandas nltk numpy
 # If pipenv does not work, use pip
 pip install pandas nltk numpy
+# Activate the virtual environment
+pipenv shell
 ```
 Afterwards, input `python` or `python3` to enter the interactive mode of python.
 ``` python
